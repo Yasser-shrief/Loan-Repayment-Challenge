@@ -9,6 +9,10 @@ necessary manipulations or aggregations, generate visualizations, and reach conc
 You are provided with 3 files: loan.csv, payment.csv and clarity_underwriting_variables.csv. The files are
 comma separated, with the column names in the first row.
 
+* **Language :** Python
+* **Classification model :** LigthGBM
+* **evaluation metrics :** AUC -validation set- = 0.93 
+
 Data Scientist Assessment Data Dictionary:
 
 ## 1. loan.csv:<br>
