@@ -11,7 +11,7 @@ comma separated, with the column names in the first row.
 
 * **Language :** Python
 * **Classification model :** LigthGBM
-* **evaluation metrics :** AUC -validation set- = 0.93 
+* **evaluation metrics :** AUC -validation set- = 0.99 
 
 Data Scientist Assessment Data Dictionary:
 
